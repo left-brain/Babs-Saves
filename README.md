@@ -1,5 +1,5 @@
 # Babs-Saves
-An open source easy to implement saving system for the unity game enigine
+An open source easy to implement saving system for the unity game enigine. Used in the vr game Qatalyst.
 
 
 ## Instalation
